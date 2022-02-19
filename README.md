@@ -122,3 +122,4 @@ For Help | Owner Chikabot |
 Owner of Baileys | Owner of Api Alphabot |
 
 # Botmulti
+# Botpedia
