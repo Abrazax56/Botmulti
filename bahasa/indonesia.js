@@ -710,7 +710,7 @@ exports.welcome = () =>{
 -> Umur :
 -> Alasan Bergabung :
 -> Asal Kota :
-*Patuhi Peraturan Grup Ya Kak`
+*Patuhi Peraturan Grup Ya Kak*`
 }
 exports.leave = () =>{
 	return`Selamat Tinggal Beban Grup`
